@@ -1,0 +1,12 @@
+# ChromaDB local storage directory
+.chroma/
+chroma.sqlite3
+
+# HuggingFace / Sentence-Transformers local model caches
+.cache/
+huggingface/
+
+# Python environment and standard overhead
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
