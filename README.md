@@ -1,2 +1,2 @@
 # Graph-Enhanced-RAG
-A zero-cost, local Graph-Enhanced RAG pipeline running entirely in-memory. Mitigates "Lost in the Middle" LLM degradation using dual-context injection, NetworkX graph pruning, and Cross-Encoder node weighting. Optimized for Google Colab.
+A zero-cost, local Graph-Enhanced RAG pipeline running entirely in-memory. Mitigates "Lost in the Middle" LLM degradation using dual-context injection, NetworkX graph pruning, and Cross-Encoder node weighting. Optimized for Google Colab. Included examples prove that Graph Enhanced RAG helps AI agents provide more useful responses as compared to naive vector RAG. Latency increase is very little as graph construction and node weighting hardly takes any time.
